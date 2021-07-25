@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Marc Nopprapun👋
+
+
+I am a life long learner who is learning React.js and Ruby on Rails to create Full Stack Applications to become a Software engineer.
+Other life passions include computer technology, traveling, and martial arts.
 
 <!--
 **mnopprapun/mnopprapun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
