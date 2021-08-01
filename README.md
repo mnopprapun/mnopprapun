@@ -1,13 +1,14 @@
 ### Hi there, I'm Marc Nopprapun👋
 
 
-I am a life long learner who is learning React.js and Ruby on Rails to create Full Stack Applications to become a Software engineer.
+I am a passionate person who loves to learn and explore new ideas. I love technology and the constant evolution that comes with it. I enjoy the challenge of learning new features to implement. I also enjoy working with others to create such projects!
 <p>
-Other life passions include computer technology, traveling, and martial arts.
+I also love to travel and explore the world. I love to experience different cultures and ideas.
 <p>
-
+  
   Everything here is in working progress including projects.
-  cardGame is Current working project for Hackathon with my team/classmates from Flatiron Bootcamp.
+  DEMO videos are coming!
+
   
 <!--   ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
