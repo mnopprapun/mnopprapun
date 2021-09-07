@@ -1,20 +1,13 @@
 ### Hi there, I'm Marc Nopprapun👋
 
 
-I am a passionate person who loves to learn and explore new ideas. I love technology and the constant evolution that comes with it. I enjoy the challenge of learning new features to implement. I also enjoy working with others to create such projects!
+I am first a life long learner and explorer. I love all types of technology and am very enthusiastic about learning it's new advances and intergrations in business and everyday life. 
 <p>
-I also love to travel and explore the world. I love to experience different cultures and ideas.
+My other hobbies and passions include traveling, fitness, and health.
 <p>
   
-  Everything here is in working progress including projects.
-  DEMO videos are coming!
-  <p>
-   CapStoneProject from Flatiron Software Engineer Bootcamp
-  <p>
-https://youtu.be/DqXviBZmiuI
-    <p> Hackthon Card Game Deployed Live Link
-      <p> https://upbeat-colden-3d0b2b.netlify.app/
-
+Proficiencies include Javscript, Ruby, Ruby on Rails, React.js, SQL, Gitlab, Github, AWS cloud.
+  <p> 
     
 
   
